@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e51e3d46-922b-4718-a481-38a90f2d737e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Alarme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BancoDados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alarme Nuclear.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alarme de Carro.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alarme de Guerra.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alarme de Submarino.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alerta 2 (Nokia Despertador).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Alerta 4 (Nokia Despertador).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Atomic Sino (Samsung Note 10 Despertador).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Cold Sun v2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Cool nights.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Despertador Piano.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Fruits Alarm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Galo da Manhã (Despertador).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Good Morning.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Goodness of god.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Hoje Eu Acordei Feliz.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Iron Man Alarm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/L.A.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/La Cucaracha Wake Up.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Morning v2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Natureza Despertador.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Nuclear Alarm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Red.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Samsung Fresh.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Saxophone.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Som de Submarino - Alarme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Sunburst Música Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/TOP Alarm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/Trumpet Military Wake Up.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sons/iPhone Campfire Despertador (Chill).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeInterval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/despertador.ico" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucasmcomin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lucasmcomin/Alarme.git&quot;,
+    &quot;accountId&quot;: &quot;b4e5e45e-e7f4-455b-ad55-88f402880ee3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2maShYbCVOo0IcVFvWDpMcivWTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Alarm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BancoDados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TimeInterval.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WindowMessage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FCKC Advocacia\PycharmProjects\Alarme\Sons" />
+      <recent name="C:\Users\FCKC Advocacia\PycharmProjects\Alarme" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="des" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51e3d46-922b-4718-a481-38a90f2d737e" name="Changes" comment="" />
+      <created>1727313313933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727313313933</updated>
+      <workItem from="1727313315374" duration="291000" />
+      <workItem from="1727313630782" duration="2114000" />
+      <workItem from="1727384160686" duration="21652000" />
+      <workItem from="1727726178391" duration="30134000" />
+      <workItem from="1728253779247" duration="7777000" />
+      <workItem from="1728301881797" duration="24923000" />
+      <workItem from="1728393877700" duration="2487000" />
+      <workItem from="1728499440230" duration="17000" />
+      <workItem from="1728499619111" duration="1778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Alarm.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Alarm.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>464</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>501</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>513</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainWindow.py</url>
+          <line>361</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Alarme$WindowMessage.coverage" NAME="WindowMessage Coverage Results" MODIFIED="1727385169403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alarme$Alarm.coverage" NAME="Alarm Coverage Results" MODIFIED="1728338677839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alarme$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1728395497009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alarme$BancoDados.coverage" NAME="BancoDados Coverage Results" MODIFIED="1728338922971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alarme$TimeInterval.coverage" NAME="TimeInterval Coverage Results" MODIFIED="1728341668130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
